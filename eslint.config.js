@@ -31,7 +31,7 @@ export default tseslint.config(
           arrowParens: 'always',
           semi: true,
           trailingComma: 'es5',
-          tabWidth: 2,
+          tabWidth: 3,
           endOfLine: 'auto',
           useTabs: false,
           singleQuote: true,
